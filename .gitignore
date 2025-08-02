@@ -1,0 +1,11 @@
+# Ignore heavy folders
+datasets/
+.venv/
+MOT17/
+
+# IDE and Python garbage
+.idea/
+__pycache__/
+*.log
+*.tmp
+*.cache
