@@ -1,5 +1,6 @@
 # Ignore heavy folders
 datasets/
+out/
 .venv/
 MOT17/
 
@@ -9,3 +10,4 @@ __pycache__/
 *.log
 *.tmp
 *.cache
+yolov8n.pt
